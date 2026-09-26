@@ -20,7 +20,7 @@ You sign in with your Google or Apple account. We receive your email address, na
 
 This data is stored on your device and, when you sync, on our servers (Japan). Signing in with the same account on another device restores the same data.
 
-Photos of opponent players and coaches are stored only on your device. Opponent player names are stored on our servers only as part of finalized game records (the jersey numbers and names of the players who played).
+Names and photos of opponent players and coaches are stored only on your device. Only opponent players' jersey numbers are stored on our servers.
 
 ### c. Usage Logs
 To make the App easier to use, we send usage logs, such as buttons pressed and screens opened, together with device model, OS and app version, language, and approximate region, to Google.
