@@ -7,13 +7,13 @@ Legal documents for apps developed by yukitaka13.
 
 ### 日本語 (Japanese)
 
-- [プライバシーポリシー](./BASKETALLY/PrivacyPolicy.md)
-- [利用規約](./BASKETALLY/Terms.md)
+- [プライバシーポリシー](https://basketally.app/privacy)
+- [利用規約](https://basketally.app/terms)
 
 ### English
 
-- [Privacy Policy](./BASKETALLY/PrivacyPolicy_en.md)
-- [Terms of Service](./BASKETALLY/Terms_en.md)
+- [Privacy Policy](https://basketally.app/privacy/en)
+- [Terms of Service](https://basketally.app/terms/en)
 
 ## Basketball Scoresheet
 
