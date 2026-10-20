@@ -35,3 +35,8 @@ Legal documents for apps developed by yukitaka13.
 ## Land Information Viewer
 
 - [プライバシーポリシー](./LandInformationViewer/PrivacyPolicy.txt)
+
+## コトノハコ
+
+- [プライバシーポリシー](https://yukitaka13-1110.github.io/PrivacyPolicy/Kotonohako/PrivacyPolicy.html)
+- [サポート](https://yukitaka13-1110.github.io/PrivacyPolicy/Kotonohako/Support.html)
