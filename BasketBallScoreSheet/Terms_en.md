@@ -1,6 +1,7 @@
 # Terms of Service (End User License Agreement)
 
 - Effective Date: May 24, 2026
+- Last Updated: November 12, 2026
 
 These Terms of Service (the "Terms") govern your use of the mobile application "Basketball Scoresheet" (the "App") provided by yukitaka13 ("we", "our", or "us"). By downloading, installing, or using the App, you agree to be bound by these Terms.
 
@@ -21,6 +22,7 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to us
 The App offers the following monthly auto-renewing subscriptions (collectively, the "Subscriptions"):
 - **Ad Removal Plan**: Removes advertisements displayed within the App.
 - **Member Sheet Premium Plan**: Unlocks additional features for the member roster (features otherwise restricted in the free version).
+- **Member List Reading Plan**: Lets you read member lists from photos up to 50 times per calendar month (Japan time). Without the plan, each device can use the feature up to 3 times for free.
 
 ### 4.1 Subscription Terms
 - All Subscriptions are offered on a **monthly basis only** (auto-renewing). No annual plans are offered.
@@ -71,6 +73,8 @@ We may, at our sole discretion and with or without prior notice, modify, suspend
 ## 11. Disclaimer of Warranties
 
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, TO THE EXTENT PERMITTED BY APPLICABLE LAW. We do not warrant that the App will be uninterrupted, error-free, or free from harmful components.
+
+Results of the Member List Reading feature may contain errors. We do not warrant their accuracy; please review the results before adding them to a member list.
 
 ## 12. Limitation of Liability
 
