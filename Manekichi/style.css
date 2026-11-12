@@ -1,0 +1,25 @@
+:root { color-scheme: light dark; }
+body {
+  font-family: -apple-system, "Hiragino Kaku Gothic ProN", "Yu Gothic", "Segoe UI", sans-serif;
+  line-height: 1.8; margin: 0; padding: 24px;
+  background: #fffaf0; color: #3b2416;
+}
+main { max-width: 720px; margin: 0 auto; }
+h1 { font-size: 1.5rem; border-bottom: 3px solid #f2c35a; padding-bottom: 8px; }
+h2 { font-size: 1.15rem; color: #8e4c2b; margin-top: 32px; }
+h3 { font-size: 1rem; margin: 20px 0 4px; }
+a { color: #8e4c2b; }
+.muted { color: #7a5a45; font-size: .9rem; }
+.lang { text-align: right; font-size: .9rem; }
+dt { font-weight: 600; margin-top: 16px; }
+dd { margin: 4px 0 0; }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+th, td { border: 1px solid #e2d6c2; padding: 6px 8px; text-align: left; vertical-align: top; }
+th { background: #fff1d6; }
+@media (prefers-color-scheme: dark) {
+  body { background: #1d1612; color: #f1e7dc; }
+  h2, a { color: #f2c35a; }
+  .muted { color: #c9b5a3; }
+  th { background: #2e231c; }
+  th, td { border-color: #4a3a2e; }
+}

@@ -40,3 +40,15 @@ Legal documents for apps developed by yukitaka13.
 
 - [プライバシーポリシー](https://yukitaka13-1110.github.io/PrivacyPolicy/Kotonohako/PrivacyPolicy.html)
 - [サポート](https://yukitaka13-1110.github.io/PrivacyPolicy/Kotonohako/Support.html)
+
+## まねきち (Penny Pup)
+
+### 日本語 (Japanese)
+
+- [プライバシーポリシー](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/PrivacyPolicy.html)
+- [サポート](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/Support.html)
+
+### English
+
+- [Privacy Policy](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/PrivacyPolicy_en.html)
+- [Support](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/Support_en.html)
