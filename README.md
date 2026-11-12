@@ -47,8 +47,10 @@ Legal documents for apps developed by yukitaka13.
 
 - [プライバシーポリシー](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/PrivacyPolicy.html)
 - [サポート](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/Support.html)
+- [アカウントとデータの削除](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/DeleteAccount.html)
 
 ### English
 
 - [Privacy Policy](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/PrivacyPolicy_en.html)
 - [Support](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/Support_en.html)
+- [Account deletion](https://yukitaka13-1110.github.io/PrivacyPolicy/Manekichi/DeleteAccount_en.html)
